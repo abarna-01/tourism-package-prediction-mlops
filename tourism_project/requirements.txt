@@ -1,0 +1,9 @@
+
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+mlflow==3.0.1
+PyGithub==2.9.1
+pyngrok==7.2.12
